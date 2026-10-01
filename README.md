@@ -11,6 +11,23 @@
 
 ${\textsf{\color{#dd7f28}About Me}}$
 
-${\textsf{\color{#dd7f28}________________________________________
-
 ${\textsf{\color{#dd7f28}Hello Pooms! I'm Gourdy! And welcome to my Read.me!!}}$
+
+${\textsf{\color{#dd7f28}Nicknames I truly prefer are Karin, Sinxy, and Gourdy!}}$
+
+${\textsf{\color{#dd7f28}I like to draw, read online comics, play games, listen to music, etc., and more!}}$
+
+${\textsf{\color{#dd7f28}Don't be too shy to cuddle, pile, hug, and snuggle with me!}}$
+
+${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing homework, watching, eating, sleeping, etc., and more…}}$
+
+<table align="right"><th>
+<details><summary> <br>$\text{\small\it\color{#866bc9}{dd7f28}My DNI List.}$</summary>
+  <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
+  <br>$\text{\small\it\color{#dd7f28}{I block freely if you dare to boop me.}}$
+  <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
+  <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
+  <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
+  </details>
+</th></table>
+ 
