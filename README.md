@@ -9,7 +9,11 @@
 
 <img width="400" height="60" alt="tumblr_76b5133df987177ab23b2ce0a851cdae_7449d65c_400" src="https://github.com/user-attachments/assets/5228d69c-868f-4d61-b4f9-a56cd7c0bb02" />
 
-${\textsf{\color{#dd7f28}About Me}}$
+## ${\textsf{\color{#dd7f28}Please sign my ata before reading my read.me!!}}$
+
+ [PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/)
+
+## ${\textsf{\color{#dd7f28}About Me}}$
 
 ${\textsf{\color{#dd7f28}Hello Pooms! I'm Gourdy! And welcome to my Read.me!!}}$
 
@@ -23,6 +27,8 @@ ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing h
 
 ${\textsf{\color{#dd7f28}Whispering to me is free, but if spam whispers... I will block you and hide you FULLY.}}$
 
+${\textsf{\color{#dd7f28}I want more supportive and kind friends, so… bmf!}}$
+
 <table align="right"><th>
 <details><summary> <br>$\text{\small\it\color{#dd7f28}My DNI List.}$</summary>
   <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
@@ -31,6 +37,7 @@ ${\textsf{\color{#dd7f28}Whispering to me is free, but if spam whispers... I wil
   <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
   <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
  <br>$\text{\small\it\color{#dd7f28}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
+  <br>$\text{\small\it\color{#dd7f28}{If you interact with me without reading my bio that has DNI... I'll hide you freely.}}$ 
   </details>
 </th></table>
 
