@@ -22,7 +22,7 @@ ${\textsf{\color{#dd7f28}Don't be too shy to cuddle, pile, hug, and snuggle with
 ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing homework, watching, eating, sleeping, etc., and more…}}$
 
 <table align="right"><th>
-<details><summary> <br>$\text{\small\it\color{#866bc9}{dd7f28}My DNI List.}$</summary>
+<details><summary> <br>$\text{\small\it\color{#866bc9}My DNI List.}$</summary>
   <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
   <br>$\text{\small\it\color{#dd7f28}{I block freely if you dare to boop me.}}$
   <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
