@@ -31,3 +31,16 @@ ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing h
   </details>
 </th></table>
  
+<table align="left"><th>
+<details><summary> <br>$\text{\small\it\color{#dd7f28}Friends of oomfs plus moots.}$</summary>  
+  
+<br>[Meii](https://github.com/Ryxii0)
+<br>[Dinky-kun](https://github.com/priijan)
+<br>[Matt](https://github.com/yellowdeltarune)
+<br>[Gail/Pinky](https://github.com/PinkestClownn)
+<br>[Coal/Domo](https://github.com/coalcarolynne)
+<br>[Jupiter](https://github.com/CYBERNETICPARASITE)
+ 
+  </details>
+</th></table>
+ 
