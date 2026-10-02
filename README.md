@@ -37,7 +37,7 @@ ${\textsf{\color{#dd7f28}I want more supportive and kind friends, so… bmf!}}$
   <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
   <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
  <br>$\text{\small\it\color{#dd7f28}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
-  <br>$\text{\small\it\color{#dd7f28}{If you interact with me without reading my bio that has DNI... I'll hide you freely.}}$ 
+  <br>$\text{\small\it\color{#dd7f28}{If you interact with me without reading my bio that has DNI... I'll hide you freely. I don't like interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{(It's okay if you want to interact with me.)}}$
   </details>
 </th></table>
 
