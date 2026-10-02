@@ -21,6 +21,8 @@ ${\textsf{\color{#dd7f28}Don't be too shy to cuddle, pile, hug, and snuggle with
 
 ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing homework, watching, eating, sleeping, etc., and more…}}$
 
+${\textsf{\color{#dd7f28}Whispering to me is free, but if spam whispers... I will block you and hide you FULLY.}}$
+
 <table align="right"><th>
 <details><summary> <br>$\text{\small\it\color{#dd7f28}My DNI List.}$</summary>
   <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
@@ -28,9 +30,10 @@ ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing h
   <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
   <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
   <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
+ <br>$\text{\small\it\color{#dd7f28}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
   </details>
 </th></table>
- 
+
 <table align="left"><th>
 <details><summary> <br>$\text{\small\it\color{#dd7f28}Friends of oomfs plus moots.}$</summary>  
   
