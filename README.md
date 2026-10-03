@@ -59,6 +59,8 @@ ${\textsf{\color{#dd7f28}I want more supportive and kind friends, so… bmf!}}$
 <br>[Gail/Pinky](https://github.com/PinkestClownn)
 <br>[Coal/Domo](https://github.com/coalcarolynne)
 <br>[Jupiter](https://github.com/CYBERNETICPARASITE)
+<br>[Roxy/Lotus](https://github.com/DearestRoxy)
+<br>[Kei](https://github.com/D0tt1e)
  
   </details>
 </th></table>
