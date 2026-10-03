@@ -13,7 +13,7 @@
 
  [PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/)
 
-## ${\textsf{\color{#dd7f28}About Me}}$
+## ${\textsf{\color{#dd7f28}About Me:}}$
 
 ${\textsf{\color{#dd7f28}Hello Pooms! I'm Gourdy! And welcome to my Read.me!!}}$
 
