@@ -33,6 +33,8 @@ ${\textsf{\color{#dd7f28}Whispering to me is free, but if spam whispers... I wil
 
 ${\textsf{\color{#dd7f28}I want more supportive and kind friends, so… bmf!}}$
 
+${\textsf{\color{#dd7f28}I allow my friends and close friends to boop me whenever they want, except for strangers.}}$ 
+
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/ab4c2eba-1674-430e-867b-2921e6b9eb76" />
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/3c0578a9-d1cd-423d-bbe6-117489b70b60" />
 
