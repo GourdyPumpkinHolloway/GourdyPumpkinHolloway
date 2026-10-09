@@ -19,9 +19,7 @@
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/3c0578a9-d1cd-423d-bbe6-117489b70b60" />
 
 
-${\textsf{\color{#dd7f28}Hello Karin! I'm Gourdy! And welcome to my Read.me!!}}$
-
-${\textsf{\color{#dd7f28}Nicknames I truly prefer are Sinxy, and Gourdy!}}$
+${\textsf{\color{#dd7f28}Hello! I'm Karin! And welcome to my Read.me!!}}$
 
 ${\textsf{\color{#dd7f28}I like to draw, read online comics, play games, listen to music, etc., and more!}}$
 
