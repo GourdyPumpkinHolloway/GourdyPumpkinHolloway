@@ -9,9 +9,9 @@
 
 <img width="400" height="60" alt="tumblr_76b5133df987177ab23b2ce0a851cdae_7449d65c_400" src="https://github.com/user-attachments/assets/5228d69c-868f-4d61-b4f9-a56cd7c0bb02" />
 
-## ${\textsf{\color{#dd7f28}Please sign my ata before reading my read.me!!}}$
+## ${\textsf{\color{#dd7f28}Please sign my ata and strawpage before reading my read.me!!}}$
 
-[PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/)
+[PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/) [PUMPKINBOOKS.PAGE](https://pumpkinbooks.straw.page)
 
 ## ${\textsf{\color{#dd7f28}About Me:}}$
 
