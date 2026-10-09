@@ -69,6 +69,8 @@ ${\textsf{\color{#dd7f28}I allow my friends and close friends to boop me wheneve
 <br>[Kei](https://github.com/D0tt1e)
 <br>[Echo](https://github.com/RazzletotheDazzle)
 <br>[Astro](https://github.com/sp4ceb3rry)
+<br>[Mabel](https://github.com/madelinedovetergent)
+<br>[Andre](https://github.com/a1p1yuri)
  
   </details>
 </th></table>
