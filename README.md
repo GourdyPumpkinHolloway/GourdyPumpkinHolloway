@@ -61,7 +61,7 @@ ${\textsf{\color{#dd7f28}I really like to bite my friends.}}$
 
 
 <table align="left"><th>
-<details><summary> <br>$\text{\small\it\color{#dd7f28}MOOTS/FRIENDS}$</summary>  
+<details><summary> <br>$\text{\small\it\color{#dd7f28}Moots/Friends}$</summary>  
   
 <br>[Meii](https://github.com/Ryxii0) 
 <br>[Dinky-kun](https://github.com/priijan)
