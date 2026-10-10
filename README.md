@@ -16,6 +16,7 @@
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/ab4c2eba-1674-430e-867b-2921e6b9eb76" />
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/3c0578a9-d1cd-423d-bbe6-117489b70b60" />
 
+<p align="center">
 
 ${\textsf{\color{#dd7f28}Hello! I'm Karin! And welcome to my Read.me!!}}$
 
