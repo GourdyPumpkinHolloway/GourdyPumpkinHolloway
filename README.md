@@ -105,8 +105,6 @@ GOING TO ADD MORE SOON!!! </3
  </details>
 </th></table>
 
-<p align="center">
-
 <table align="center"><th>
 <details><summary> <br>$\text{\small\it\color{#dd7f28}Skins I used}$</summary>
 
