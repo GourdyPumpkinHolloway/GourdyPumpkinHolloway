@@ -105,4 +105,14 @@ GOING TO ADD MORE SOON!!! </3
  </details>
 </th></table>
 
+<p align="center">
+
+<table align="center"><th>
+<details><summary> <br>$\text{\small\it\color{#dd7f28}Skins I used$</summary>
+
+<br><img width="320" height="400" alt="pony-town--trot-blinking-fixed-padded-4x" src="https://github.com/user-attachments/assets/94cd9ead-add9-4872-b6b0-71ddb3c5c12e" />
+<br><img width="320" height="400" alt="pony-town-wW-stand-blinking-fixed-padded-4x" src="https://github.com/user-attachments/assets/073effee-f528-4c89-b5fe-209475c9aa4c" />
+ </details>
+</th></table>
+
 
