@@ -76,7 +76,7 @@ ${\textsf{\color{#dd7f28}I really like to bite my friends.}}$
 <br>[Andre](https://github.com/a1p1yuri)
 <br>[Gordon](https://github.com/gordonthebigengine)
 <br>[1x1x1x1](https://github.com/Cuddling-Encouraged-heavily-Dnc)
- 
+<br>[Sproutagent](https://github.com/Sproutkin) 
   </details>
 </th></table>
 
