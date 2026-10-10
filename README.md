@@ -105,14 +105,5 @@ GOING TO ADD MORE SOON!!! </3
  </details>
 </th></table>
 
-<table align="center"><th>
-<details><summary> <br>$\text{\small\it\color{#dd7f28}Skins I used}$</summary>
-
-<br><img width="320" height="400" alt="pony-town--trot-blinking-fixed-padded-4x" src="https://github.com/user-attachments/assets/94cd9ead-add9-4872-b6b0-71ddb3c5c12e" /><img width="320" height="400" alt="pony-town--trot-blinking-fixed-padded-4x (1)" src="https://github.com/user-attachments/assets/a1d69365-e31a-41c1-9067-821ba1a6df9a" />
-
-<br>$\text{\small\it\color{#dd7f28}Please do not copy my skins!}$</summary>  
-
- </details>
-</th></table>
 
 
