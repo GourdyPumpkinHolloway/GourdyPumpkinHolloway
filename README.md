@@ -102,3 +102,7 @@ ${\textsf{\color{#dd7f28}I really like to bite my friends.}}$
 <img width="100" height="56" alt="tumblr_9926eebcc687cbb56f558d32499caf89_193995da_100" src="https://github.com/user-attachments/assets/59c7b754-5487-4d8a-837e-565090af8037" />
 
 GOING TO ADD MORE SOON!!! </3
+ </details>
+</th></table>
+
+
